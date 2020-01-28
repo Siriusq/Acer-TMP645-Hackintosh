@@ -13,7 +13,7 @@ SSD2|三星 860EVO 512G SATA3接口（加装）
 
 - 读卡器和视频输出我用不到就没搞
 - 读卡器据说有`Sinetek-rtsx.kext`可以驱动，有需要的可以试一下，我没有SD卡没法测试
-- 手头没有多余的视频线，不知道能不外接显示器，等回学校再测试一下
+- HDMI接口输出正常，VGA接口理论上也可以，我没有VGA设备，所以没有测试
 - Mojave的N卡无解，用核显敲代码足够了
 
 类别|驱动
@@ -29,8 +29,8 @@ USB|OK
 CPU变频|OK
 Airdrop|OK
 读卡器|N/A
-HDMI输出|N/A
-VGA输出|N/A
+HDMI输出|OK
+VGA输出|OK？
 独显|N/A
 
 本人博客[Siriusq](https://siriusq.top/%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92.html)有记录详细折腾过程，仅供参考
